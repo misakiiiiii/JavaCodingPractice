@@ -1,0 +1,4 @@
+/home/project/spring-boot-captcha/src/main/java/com/lou/springboot/Application.java
+/home/project/spring-boot-captcha/src/main/java/com/lou/springboot/controller/HelloController.java
+/home/project/spring-boot-captcha/src/main/java/com/lou/springboot/controller/KaptchaController.java
+/home/project/spring-boot-captcha/src/main/java/com/lou/springboot/config/KaptchaConfig.java

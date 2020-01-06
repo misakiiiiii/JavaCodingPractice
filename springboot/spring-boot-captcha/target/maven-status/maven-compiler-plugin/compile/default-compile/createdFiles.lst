@@ -1,0 +1,4 @@
+com/lou/springboot/Application.class
+com/lou/springboot/controller/HelloController.class
+com/lou/springboot/config/KaptchaConfig.class
+com/lou/springboot/controller/KaptchaController.class
